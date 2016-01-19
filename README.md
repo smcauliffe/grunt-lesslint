@@ -1,5 +1,5 @@
 # LESS Lint Grunt plugin
-# branch to support csslint inline ignore start and end
+branch to support csslint inline ignore start and end
 
 [![Build Status](https://travis-ci.org/jgable/grunt-lesslint.svg)](https://travis-ci.org/jgable/grunt-lesslint)
 [![Dependency Status](https://david-dm.org/jgable/grunt-lesslint.svg)](https://david-dm.org/jgable/grunt-lesslint)
